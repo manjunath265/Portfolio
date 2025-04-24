@@ -19,7 +19,7 @@ const Footer = () => {
       </div>
       <hr/>
       <div className="footer-bottom">
-        <p className='footer-bottom-left'>2025 Manjunath Reddy Edla All Rights Reserved</p>
+        <p className='footer-bottom-left'>@2025 Manjunath Reddy Edla All Rights Reserved</p>
         <div className="footer-bottom-right">
             <p>Term of Services</p>
             <p>Privacy Policy</p>

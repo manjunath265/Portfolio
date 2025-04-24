@@ -9,13 +9,13 @@
 
 }
 
-.hero h1{
+.hero h2{
     text-align: center;
     width: 70%;
     font-size: 90px;
-    font-weight:600;
+    font-weight:400;
 }
-.hero h1 span{
+.hero h2 span{
     background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
     background-clip: text;
     -webkit-background-clip: text;

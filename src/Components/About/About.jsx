@@ -15,7 +15,7 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Master’s student in Information Systems (CGPA: 3.93/4) with experience in full-stack development, cloud computing, and DevOps. Proficient in Python, TypeScript, Java, and SQL. Strong foundation in API development (Flask, Express) and UI frameworks (React). </p>
+                    <p>Master’s student in Information Systems (CGPA: 3.93/4) with experience in full-stack development, cloud computing, and data engineering. Proficient in Python, TypeScript, Java, and SQL. Strong foundation in API development (Flask, Express) and UI frameworks (React). </p>
                     <p>Hands-on experience with Kubernetes, Docker, CI/CD (Jenkins, GitHub Actions), and cloud platforms (AWS & Azure). Passionate about enhancing developer productivity through automation and scalable cloud solutions.</p>
                 </div>
                 <div className="about-skills">

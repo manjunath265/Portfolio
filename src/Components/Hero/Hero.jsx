@@ -20,7 +20,7 @@ const Hero = () => {
 
             <div className="hero-resume">
   <a 
-    href="http://localhost:5000/resume"
+    href="https://portfolio-backend-awk9.onrender.com/resume"
     target="_blank"
     rel="noopener noreferrer"
     className="resume-link"

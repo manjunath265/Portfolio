@@ -15,12 +15,16 @@ const MyWork = () => {
             <img src={theme_pattern} alt="" />
         </div>
         <div className="mywork-container">
-        <img src={portfolio} alt="hello" />
-        <img src={powerBI} alt="hello" />
-        <img src={images} alt="hello" />
+        <a href = "https://github.com/manjunath265/Portfolio.git">
+        <img src={portfolio} alt="hello" /> </a>
+        <a href = "https://github.com/EdlaHareen/GROUP11.git">
+        <img src={powerBI} alt="hello" /></a>
+        <a href = "https://github.com/manjunath265/Inventory-Management-System.git">
+        <img src={images} alt="hello" /></a>
         </div>
         <div className="mywork-showmore">
-            <p>Show More</p>
+            <a href='https://github.com/manjunath265'>
+            <p>Show More</p></a>
             <img src={arrow_icon} alt="" />
         </div>
     </div>
